@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+h1,
+.h1 {
+    color: #fff;
+    font-family: monospace;
+    font-size: 2rem;
+
+}
+
+.h1 a {
+    color: #fff;
+    text-decoration: none
+}
+
+.h1 a:visited {
+    color: #fff;
+    text-decoration: none
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p {
+    max-width: 600px;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    ;
+    font-size: 16px;
+}
+
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    color: #fff;
+}
+
+.small-text {
+    font-size: smaller;
+}
