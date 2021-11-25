@@ -1,7 +1,7 @@
 # ventry.host
 
 # he claims this is the "old" source
-# he says it isn't using the old source while you can go to [https://ventry.host/dashboard/shop]: https://ventry.host/dashboard/shop
+# he says it isn't using the old source while you can go to https://ventry.host/dashboard/shop
 
 ![old shop with mhills watermark](https://media.discordapp.net/attachments/892752295807316048/913481756781461566/unknown.png?width=904&height=468 "old shop with mhills watermark")
 
