@@ -1,6 +1,4 @@
-"# ventry.host" 
 # ventry.host
-"# ventry.host" 
 
 # he claims this is the "old" source
 # well its only missing 2 new features which can be added in 2 seconds if you know anything
